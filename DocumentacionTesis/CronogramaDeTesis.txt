@@ -1,0 +1,28 @@
+	
+Puntos a cumplir en la tesis
+
+        -Investigar compatibilidad entre rfid y nfc 
+	-Investigar que otras bd se pueden comunicar a android studio
+	-Desarrollar el gps en android studio
+	-Desarrollar la realidad aumentada
+	-Comunicación de las bd al android studio
+	-Ingresar datos de los libros a la bd según el documento "inventario" y las posiciones geograficas de los libros en cada estante
+	-Pulir las interfaces
+	-Desarrollar el autoprestamo y devolucion  (manejo de estándares)
+        -Manejo de rfid con  nfc
+	-Desarrollar el tomo
+
+
+
+Mantener el repositorio actual sin problemas
+discutir siempre antes de comenzar una actividad
+Pedirle horario a wilmer
+todo lo que se investigue se sube al repositorio 
+
+
+
+
+Horario   lunes y viernes.
+
+
+
